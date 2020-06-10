@@ -1,3 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Diode
+D Diode Standard 200V 2A Surface Mount SOD-123FL
+F https://www.onsemi.com/pub/Collateral/NHP220SF-D.PDF
+$ENDCMP
+#
+$CMP ESP32
+D 32 bit Microcontroller Bluetooth, WiFi  Transceiver Module 2.4GHz ~ 2.5GHz  Surface Mount
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+$ENDCMP
+#
+$CMP STS8DN6LF6AG
+D Dual N-Channel Power MOSFET
+K MOS MOSFET Transistor TSV AMS CellMan Power NMOS
+F https://www.mouser.com/datasheet/2/389/sts8dn6lf6ag-1114209.pdf
+$ENDCMP
+#
 #End Doc Library
