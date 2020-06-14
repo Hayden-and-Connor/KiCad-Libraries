@@ -10,6 +10,16 @@ D 32 bit Microcontroller Bluetooth, WiFi  Transceiver Module 2.4GHz ~ 2.5GHz  Su
 F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 $ENDCMP
 #
+$CMP LM2665M6
+D Charge Pump Switching Regulator IC Positive Fixed 2Vin, Vin/2 1 Output 40mA SOT-23-6
+F https://www.ti.com/lit/ds/symlink/lm2665.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1592092406175
+$ENDCMP
+#
+$CMP SI4909DY-T1-GE3
+D Mosfet Array 2 P-Channel (Dual) 40V 8A 3.2W Surface Mount 8-SO
+F https://www.vishay.com/docs/67077/si4909dy.pdf
+$ENDCMP
+#
 $CMP STS8DN6LF6AG
 D Dual N-Channel Power MOSFET
 K MOS MOSFET Transistor TSV AMS CellMan Power NMOS
