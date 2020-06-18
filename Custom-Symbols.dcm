@@ -20,6 +20,17 @@ $CMP ESP32_DevBoard
 F http://wiki.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf
 $ENDCMP
 #
+$CMP LED_Green
+D Red  Green Indication - Discrete 2V 0805 (2012 Metric)
+K LED CellMan
+F https://vcclite.com/wp-content/uploads/wpallimport/files/files/CMD1721Seriesver3.pdf
+$ENDCMP
+#
+$CMP LED_Red
+D Red  LED Indication - Discrete 2V 0805 (2012 Metric)
+F https://vcclite.com/wp-content/uploads/wpallimport/files/files/CMD1721Seriesver3.pdf
+$ENDCMP
+#
 $CMP LM2665M6
 D Charge Pump Switching Regulator IC Positive Fixed 2Vin, Vin/2 1 Output 40mA SOT-23-6
 K charge pump
