@@ -6,6 +6,12 @@ K power connector dc
 F https://www.cuidevices.com/product/resource/pj-102b.pdf
 $ENDCMP
 #
+$CMP DMN62D0U-7
+D Logic level n channel mosfet
+K n channel mosfet nmos logic level
+F https://www.diodes.com/assets/Datasheets/DMN62D0U.pdf
+$ENDCMP
+#
 $CMP Diode
 D Diode Standard 200V 2A Surface Mount SOD-123FL
 F https://www.onsemi.com/pub/Collateral/NHP220SF-D.PDF
