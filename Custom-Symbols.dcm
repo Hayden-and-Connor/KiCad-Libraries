@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ACS722
+D Current Sensor 5A Hall Effect
+K current sensor
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS722-Datasheet.ashx
+$ENDCMP
+#
 $CMP Barrel-Jack
 D Power Barrel Connector Jack 2.50mm ID (0.098"), 5.50mm OD (0.217") Through Hole, Right Angle
 K power connector dc
