@@ -32,6 +32,12 @@ $CMP ESP32_DevBoard
 F http://wiki.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf
 $ENDCMP
 #
+$CMP INA250A3
+D Integrated Shunt Current Sensor, 800mV/A
+K current sensor
+F https://www.ti.com/lit/ds/symlink/ina250.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1593450644945
+$ENDCMP
+#
 $CMP LED_Green
 D Red  Green Indication - Discrete 2V 0805 (2012 Metric)
 K LED CellMan
