@@ -55,6 +55,12 @@ K charge pump
 F https://www.ti.com/lit/ds/symlink/lm2665.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1592092406175
 $ENDCMP
 #
+$CMP NPIC6C596ADJ
+D Shift Shift Register 1 Element 8 Bit 16-SO
+K Shift Register
+F https://assets.nexperia.com/documents/data-sheet/NPIC6C596A.pdf
+$ENDCMP
+#
 $CMP SI4909DY-T1-GE3
 D Mosfet Array 2 P-Channel (Dual) 40V 8A 3.2W Surface Mount 8-SO
 F https://www.vishay.com/docs/67077/si4909dy.pdf
