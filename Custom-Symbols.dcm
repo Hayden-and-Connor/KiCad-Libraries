@@ -60,6 +60,12 @@ K charge pump
 F https://www.ti.com/lit/ds/symlink/lm2665.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1592092406175
 $ENDCMP
 #
+$CMP MCP2221A
+D USB Bridge, USB to I²C/UART USB 2.0 I²C, UART Interface 14-TSSOP
+K USB to UART
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005565C.pdf
+$ENDCMP
+#
 $CMP NPIC6C596ADJ
 D Shift Shift Register 1 Element 8 Bit 16-SO
 K Shift Register
