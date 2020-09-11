@@ -9,6 +9,7 @@ $ENDCMP
 $CMP ASSR-4118-503E
 D Solid State  SPST-NO (1 Form A) 4-SOP (0.173", 4.40mm)
 K relay solid state
+F https://docs.broadcom.com/doc/AV02-0218EN
 $ENDCMP
 #
 $CMP Barrel-Jack
@@ -81,6 +82,11 @@ $CMP STS8DN6LF6AG
 D Dual N-Channel Power MOSFET
 K MOS MOSFET Transistor TSV AMS CellMan Power NMOS
 F https://www.mouser.com/datasheet/2/389/sts8dn6lf6ag-1114209.pdf
+$ENDCMP
+#
+$CMP TPS79933
+D Linear Voltage Regulator 3.3V 200mA SOT23-5
+F https://www.ti.com/lit/ds/sbvs056k/sbvs056k.pdf
 $ENDCMP
 #
 #End Doc Library
