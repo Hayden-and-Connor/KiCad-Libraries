@@ -67,6 +67,12 @@ K USB to UART
 F https://ww1.microchip.com/downloads/en/DeviceDoc/20005565C.pdf
 $ENDCMP
 #
+$CMP MicroUSB
+D USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle
+K connector usb microusb 
+F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118192.pdf
+$ENDCMP
+#
 $CMP NPIC6C596ADJ
 D Shift Shift Register 1 Element 8 Bit 16-SO
 K Shift Register
